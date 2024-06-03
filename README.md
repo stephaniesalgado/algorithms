@@ -1,2 +1,2 @@
-# Algorithms
-A repository containing my implementations of various algorithms!
+# Algorithms: LeetCode
+This branch contains my solutions to various LeetCode problems!
